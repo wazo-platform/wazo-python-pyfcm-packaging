@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pyfcm
+Source: https://github.com/olucurious/PyFCM
+
+Files: *
+Copyright: 2016-2018 Emmanuel Adegbite
+License: MIT
+
+Files: debian/*
+Copyright: 2018 The Wazo Authors  (see the AUTHORS file)
+License: GPL-3
