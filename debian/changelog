@@ -1,3 +1,9 @@
+wazo-python-pyfcm-packaging (1.4.7-1~wazo1) wazo-dev-stretch; urgency=medium
+
+  * Update to the latest version
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 17 Jun 2019 14:04:00 -0400
+
 wazo-python-pyfcm-packaging (1.4.5-1~wazo1) wazo-dev-stretch; urgency=medium
 
   * Initial release
