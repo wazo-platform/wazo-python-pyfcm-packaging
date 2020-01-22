@@ -1,3 +1,9 @@
+wazo-python-pyfcm-packaging (1.4.7-1~wazo2) wazo-dev-buster; urgency=medium
+
+  * rebuild
+
+  -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 22 Jan 2020 23:24:04 +0100
+
 wazo-python-pyfcm-packaging (1.4.7-1~wazo1) wazo-dev-stretch; urgency=medium
 
   * Update to the latest version
