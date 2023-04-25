@@ -1,3 +1,9 @@
+wazo-python-pyfcm-packaging (1.4.7-1~wazo5) wazo-dev-bullseye; urgency=medium
+
+  * Update zuul config
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 25 Apr 2023 18:53:55 -0400
+
 wazo-python-pyfcm-packaging (1.4.7-1~wazo4) wazo-dev-buster; urgency=medium
 
   * rebuild for Bullseye
