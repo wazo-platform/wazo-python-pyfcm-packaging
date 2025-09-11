@@ -1,3 +1,9 @@
+wazo-python-pyfcm-packaging (1.4.7-1~wazo8) wazo-dev-bookworm; urgency=medium
+
+  * Rebuild for Bookworm
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Thu, 11 Sep 2025 13:21:15 -0400
+
 wazo-python-pyfcm-packaging (1.4.7-1~wazo6) wazo-dev-bullseye; urgency=medium
 
   * follow debian copyright guidelines
