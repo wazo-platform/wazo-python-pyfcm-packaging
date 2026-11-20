@@ -1,3 +1,9 @@
+wazo-python-pyfcm-packaging (1.4.9-1~wazo1) wazo-dev-bookworm; urgency=medium
+
+  * New upstream version 1.4.9: send a time_to_live of 0 instead of dropping it
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Fri, 20 Nov 2026 14:40:42 -0500
+
 wazo-python-pyfcm-packaging (1.4.7-1~wazo8) wazo-dev-bookworm; urgency=medium
 
   * Rebuild for Bookworm
